@@ -1,5 +1,8 @@
 This is an alternate dark color scheme for kde plasma desktop 5
 Installation
+
+
+
 0. Download Saphire.colors
 1. open systemsettings either through the gui or with systemsettings in the terminal
 2. click on "Colors" 
